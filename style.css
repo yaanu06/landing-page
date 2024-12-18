@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Welcome to TDT The Downtown - Fashion that speaks to you">
+  <title>TDT The Downtown</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>TDT The Downtown</h1>
+      <p>Trendy bags and clothing for every occasion</p>
+      <a href="#shop-now" class="cta-button">Shop Now</a>
+    </div>
+  </header>
+
+  <section class="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>Discover the latest in fashion with TDT The Downtown's collection of stylish bags and clothing. Quality, comfort, and style are our priority.</p>
+    </div>
+  </section>
+
+  <section id="shop-now" class="shop">
+    <div class="container">
+      <h2>Shop Our Collection</h2>
+      <p>Explore our exclusive range of products and find the perfect match for you.</p>
+      <a href="https://facebook.com/TDTTheDowntown" class="cta-button">Visit Our Store</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 TDT The Downtown. All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
